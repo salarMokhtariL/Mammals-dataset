@@ -1,0 +1,10 @@
+red_panda
+hamester
+lion
+giraffe
+elephantidae
+koala
+rhinoceros
+goat
+human
+chimpanzee

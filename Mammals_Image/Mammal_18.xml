@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mammals_Image</folder>
+	<filename>Mammal_18.jpg</filename>
+	<path>D:\Dataset\Mammals-dataset\Mammals_Image\Mammal_18.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2880</width>
+		<height>1228</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Champanze</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1045</xmin>
+			<ymin>93</ymin>
+			<xmax>2013</xmax>
+			<ymax>1153</ymax>
+		</bndbox>
+	</object>
+</annotation>

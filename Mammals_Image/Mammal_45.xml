@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mammals_Image</folder>
+	<filename>Mammal_45.jpg</filename>
+	<path>D:\Dataset\Mammals-dataset\Mammals_Image\Mammal_45.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>488</width>
+		<height>714</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red_panda</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>136</ymin>
+			<xmax>388</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mammals_Image</folder>
+	<filename>Mammal_108.jpg</filename>
+	<path>D:\Dataset\Mammals-dataset\Mammals_Image\Mammal_108.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>803</width>
+		<height>455</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>goat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>10</ymin>
+			<xmax>715</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mammals_Image</folder>
+	<filename>Mammal_114.jpg</filename>
+	<path>D:\Dataset\Mammals-dataset\Mammals_Image\Mammal_114.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>887</width>
+		<height>585</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>koala</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>106</ymin>
+			<xmax>707</xmax>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+</annotation>

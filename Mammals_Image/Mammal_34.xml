@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mammals_Image</folder>
+	<filename>Mammal_34.jpg</filename>
+	<path>D:\Dataset\Mammals-dataset\Mammals_Image\Mammal_34.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1824</width>
+		<height>1263</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fox</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>492</xmin>
+			<ymin>69</ymin>
+			<xmax>1763</xmax>
+			<ymax>1205</ymax>
+		</bndbox>
+	</object>
+</annotation>

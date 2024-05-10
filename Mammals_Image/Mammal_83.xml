@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mammals_Image</folder>
+	<filename>Mammal_83.jpg</filename>
+	<path>D:\Dataset\Mammals-dataset\Mammals_Image\Mammal_83.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2305</width>
+		<height>3072</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>464</ymin>
+			<xmax>1699</xmax>
+			<ymax>2789</ymax>
+		</bndbox>
+	</object>
+</annotation>

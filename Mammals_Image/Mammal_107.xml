@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Mammals_Image</folder>
+	<filename>Mammal_107.jpg</filename>
+	<path>D:\Dataset\Mammals-dataset\Mammals_Image\Mammal_107.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>715</width>
+		<height>688</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rhinoceros</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>28</ymin>
+			<xmax>673</xmax>
+			<ymax>680</ymax>
+		</bndbox>
+	</object>
+</annotation>
